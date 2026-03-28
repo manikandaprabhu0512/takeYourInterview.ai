@@ -104,10 +104,10 @@ npm run dev
 Example `.env.example`:
 
 PORT=8000  
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-OPENROUTER_API_KEY=your_openrouter_api_key
-RAZORPAY_KEY_ID=your_razorpay_key_id
+MONGO_URI=your_mongodb_connection_string  
+JWT_SECRET=your_jwt_secret  
+OPENROUTER_API_KEY=your_openrouter_api_key  
+RAZORPAY_KEY_ID=your_razorpay_key_id  
 RAZORPAY_KEY_SECRET=your_razorpay_client_secret
 
 ---
